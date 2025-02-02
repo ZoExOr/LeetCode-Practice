@@ -1,8 +1,4 @@
 # LeetCode-Practice
-编程小白，我会慢慢把练习力扣时的题解（主要是C++和Java）和一些心得搬运过来^u^欢迎交流！
+目前就读于阿姆斯特丹自由大学Computer Science本科大二，打算在这里记录我练习力扣的代码&感想，感兴趣可以一起交流
 
-
-I upload my C++ and Java solutions along with some insights here as I practice. You can also visit my LeetCode profile at https://leetcode.cn/u/zhouyijun75/. Hope we can improve together through LeetCode practice! ^u^
-
-
-Ik upload hier mijn C++ en Java-oplossingen en enkele inzichten die ik heb opgedaan tijdens het oefenen. Je kunt ook mijn LeetCode-profiel bekijken op https://leetcode.cn/u/zhouyijun75/. Hopelijk kunnen we samen verbeteren door LeetCode te oefenen! ^u^
+Currently 2nd Year BSc Computer Science at @VU Amsterdam. Upload my leetcode practice & reflection here
